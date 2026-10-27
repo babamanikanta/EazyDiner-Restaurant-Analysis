@@ -57,15 +57,15 @@ The dataset was collected using Python web scraping techniques. Restaurant detai
 
 ### Dataset Summary
 
-| Metric | Value |
-|---|---|
-| Total Restaurant Records | [Enter count] |
-| Total Cities | [Enter count] |
-| Total Unique Cuisines | [Enter count] |
-| Average Cost for Two | ₹[Enter amount] |
-| Median Cost for Two | ₹[Enter amount] |
-| Average Restaurant Rating | [Enter rating] / 5 |
-| Restaurants With Recorded Offers | [Enter percentage]% |
+| Metric                           | Value             |
+| -------------------------------- | ----------------- |
+| Total Restaurant Records         | 2,046             |
+| Total Cities                     | 29                |
+| Total Unique Cuisines            | 119               |
+| Average Cost for Two             | ₹1,207.05         |
+| Median Cost for Two              | ₹1,000            |
+| Average Restaurant Rating        | 4.12 / 5          |
+| Restaurants With Recorded Offers | 100%              |
 
 ## 5. Project Workflow
 
@@ -385,7 +385,7 @@ EazyDiner-Restaurant-Analysis/
 **Step 1: Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EazyDiner-Restaurant-Analysis.git
+git clone https://github.com/babamanikanta/EazyDiner-Restaurant-Analysis.git
 ```
 
 **Step 2: Navigate to the project folder**
